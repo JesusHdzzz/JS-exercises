@@ -1,7 +1,7 @@
 // Para ejecutar cada ejercicio, elimina "/*" y "*/" para poder revisar el ejercicio. 
 
 /*
-console.log(typeof 'César')
+console.log(typeof 'Jesús')
 console.log(typeof 18)
 console.log(typeof null)
 console.log(typeof undefined)
